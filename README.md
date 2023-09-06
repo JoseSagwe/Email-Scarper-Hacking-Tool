@@ -48,11 +48,3 @@ To use the Email Scraper Tool, follow these steps:
 
 4. Once the process is complete, the tool will display the extracted email addresses.
 
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README further to include more details about your tool or additional examples if necessary. Providing clear instructions and examples will make it easier for users to understand and utilize your email scraper tool.
