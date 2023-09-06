@@ -48,19 +48,6 @@ To use the Email Scraper Tool, follow these steps:
 
 4. Once the process is complete, the tool will display the extracted email addresses.
 
-## Example
-
-Here's a simple example of how to use the Email Scraper Tool:
-
-1. Run the scraper script:
-
-   ```bash
-   python scraper.py
-   ```
-
-2. Enter the target URL when prompted (e.g., `https://example.com`).
-
-3. The tool will scrape email addresses from the specified web page and display them in the terminal.
 
 ## Contributing
 
