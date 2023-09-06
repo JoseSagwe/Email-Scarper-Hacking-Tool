@@ -49,18 +49,6 @@ To use the Email Scraper Tool, follow these steps:
 4. Once the process is complete, the tool will display the extracted email addresses.
 
 
-## Contributing
-
-We welcome contributions to improve the Email Scraper Tool. If you'd like to contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`.
-3. Make your changes and commit them: `git commit -m "Add feature or fix"`.
-4. Push your changes to your fork: `git push origin feature-name`.
-5. Open a pull request to the main repository.
-
-Please ensure your code adheres to our coding standards and includes tests if applicable.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
